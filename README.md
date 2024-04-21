@@ -1,2 +1,2 @@
-# Learning-Web-Scraping-Wikipedia
-Web Scraping Wikipedia in Python Using BeautifulSoup
+# Web-Scraping-Wikipedia
+Web Scraping Companies Data in Python Using BeautifulSoup
